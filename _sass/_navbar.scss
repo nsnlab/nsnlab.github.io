@@ -28,8 +28,15 @@
     }
   }
 
+  // Always show nav links on desktop
+  @media (min-width: 768px) {
+    .navbar-collapse {
+      display: flex !important;
+    }
+  }
+
   // On mobile, show links stacked after toggle
-  @media (max-width: 575px) {
+  @media (max-width: 767px) {
     .navbar-collapse .navbar-nav {
       flex-direction: column;
     }
