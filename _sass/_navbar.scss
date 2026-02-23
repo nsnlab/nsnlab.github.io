@@ -5,10 +5,35 @@
 @use "variables" as v;
 
 .navbar {
-  box-shadow: none;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.08);
   border-bottom: 1px solid var(--global-divider-color);
   background-color: var(--global-bg-color);
   opacity: 0.95;
+
+  // Two-row layout
+  .navbar-top-row {
+    .navbar-brand {
+      font-size: 1.15rem;
+      letter-spacing: 0.01em;
+      color: var(--global-theme-color) !important;
+    }
+  }
+
+  .navbar-nav {
+    font-size: 0.88rem;
+
+    .nav-link {
+      padding: 0.3rem 0.6rem;
+      text-transform: lowercase;
+    }
+  }
+
+  // On mobile, show links stacked after toggle
+  @media (max-width: 575px) {
+    .navbar-collapse .navbar-nav {
+      flex-direction: column;
+    }
+  }
 }
 
 .navbar .dropdown-menu,
