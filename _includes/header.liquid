@@ -1,33 +1,32 @@
 <header>
   <!-- Nav Bar -->
-  <nav id="navbar" class="navbar navbar-light {% if site.navbar_fixed %}fixed-top{% else %}sticky-top{% endif %}" role="navigation">
-    <div class="container flex-column p-0">
+  <nav id="navbar" class="navbar navbar-light navbar-expand-md {% if site.navbar_fixed %}fixed-top{% else %}sticky-top{% endif %}" role="navigation">
+    <div class="container">
 
-      <!-- Top row: lab name + mobile toggle -->
-      <div class="navbar-top-row w-100 d-flex align-items-center justify-content-between px-3 py-2">
-        <a class="navbar-brand title font-weight-bold mb-0" href="{{ site.baseurl }}/">
-          {{- site.title -}}
-        </a>
-        <!-- Navbar Toggle (always visible on mobile) -->
-        <button
-          class="navbar-toggler collapsed"
-          type="button"
-          data-toggle="collapse"
-          data-target="#navbarNav"
-          aria-controls="navbarNav"
-          aria-expanded="false"
-          aria-label="Toggle navigation"
-        >
-          <span class="sr-only">Toggle navigation</span>
-          <span class="icon-bar top-bar"></span>
-          <span class="icon-bar middle-bar"></span>
-          <span class="icon-bar bottom-bar"></span>
-        </button>
-      </div>
+      <!-- Brand / Lab name -->
+      <a class="navbar-brand title font-weight-bold" href="{{ site.baseurl }}/">
+        {{- site.title -}}
+      </a>
 
-      <!-- Bottom row: nav links (always shown on desktop, collapsible on mobile) -->
-      <div class="collapse navbar-collapse w-100 border-top" id="navbarNav">
-        <ul class="navbar-nav w-100 flex-wrap px-3 py-1">
+      <!-- Hamburger toggle (shown on mobile only by Bootstrap navbar-expand-md) -->
+      <button
+        class="navbar-toggler collapsed"
+        type="button"
+        data-toggle="collapse"
+        data-target="#navbarNav"
+        aria-controls="navbarNav"
+        aria-expanded="false"
+        aria-label="Toggle navigation"
+      >
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar top-bar"></span>
+        <span class="icon-bar middle-bar"></span>
+        <span class="icon-bar bottom-bar"></span>
+      </button>
+
+      <!-- Nav links -->
+      <div class="collapse navbar-collapse" id="navbarNav">
+        <ul class="navbar-nav ml-auto">
           {% for page in site.pages %}
             {% if page.permalink == '/' %} {% assign about_title = page.title %} {% endif %}
           {% endfor %}
@@ -104,8 +103,8 @@
             {% endif %}
           {% endfor %}
 
-          <!-- Search and theme toggle pushed to right -->
-          <li class="nav-item ml-auto d-flex align-items-center">
+          <!-- Search and theme toggle -->
+          <li class="nav-item d-flex align-items-center">
             {% if site.search_enabled %}
               <button id="search-toggle" title="Search" onclick="openSearchModal()">
                 <span class="nav-link">ctrl k <i class="fa-solid fa-magnifying-glass"></i></span>
