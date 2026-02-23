@@ -1,8 +1,8 @@
 ---
 layout: profiles
 permalink: /people/
-title: people
-description: members of the lab or group
+title: team
+description: current and former members of the lab
 nav: true
 nav_order: 2
 
@@ -80,3 +80,31 @@ profiles:
     image_circular: false
     more_info:
 ---
+
+---
+
+## Alumni
+
+<div class="row row-cols-2 row-cols-sm-4 g-3 mt-2">
+
+  <div class="col text-center">
+    <img src="/assets/img/tibor_auer.png" class="img-fluid rounded-circle mb-2" style="width:90px;height:90px;object-fit:cover;" alt="Tibor Auer">
+    <p class="mb-0"><strong>Tibor Auer</strong></p>
+  </div>
+
+  <div class="col text-center">
+    <img src="/assets/img/henry_hebron.png" class="img-fluid rounded-circle mb-2" style="width:90px;height:90px;object-fit:cover;" alt="Henry Hebron">
+    <p class="mb-0"><strong>Henry Hebron</strong></p>
+  </div>
+
+  <div class="col text-center">
+    <img src="/assets/img/danielle_kurtin.png" class="img-fluid rounded-circle mb-2" style="width:90px;height:90px;object-fit:cover;" alt="Danielle Kurtin">
+    <p class="mb-0"><strong>Danielle Kurtin</strong></p>
+  </div>
+
+  <div class="col text-center">
+    <img src="/assets/img/will_mayes.png" class="img-fluid rounded-circle mb-2" style="width:90px;height:90px;object-fit:cover;" alt="Will Mayes">
+    <p class="mb-0"><strong>Will Mayes</strong></p>
+  </div>
+
+</div>
