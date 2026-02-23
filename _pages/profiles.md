@@ -81,8 +81,6 @@ profiles:
     more_info:
 ---
 
----
-
 ## Alumni
 
 <div class="row row-cols-2 row-cols-sm-4 g-3 mt-2">
