@@ -26,6 +26,12 @@ jobs:
         with:
           ruby-version: "3.3"
           bundler-cache: true
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+      - name: Install Jupyter
+        run: pip install jupyter nbconvert
       - name: Build site
         run: bundle exec jekyll build
         env:
