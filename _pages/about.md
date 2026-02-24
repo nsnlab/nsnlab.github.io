@@ -11,7 +11,7 @@ profile:
   more_info:
 
 selected_papers: false
-social: true # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
 
 announcements:
   enabled: true
