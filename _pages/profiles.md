@@ -13,6 +13,11 @@ profiles:
     image_circular: false
     more_info: >
       <p>BMEIS, KCL</p>
+      <p style="margin-top:0.5rem;">
+      <a href="https://scholar.google.com/citations?user=c6TrSKgAAAAJ" target="_blank" title="Google Scholar"><i class="ai ai-google-scholar ai-2x"></i></a>
+      &nbsp;&nbsp;
+      <a href="https://www.linkedin.com/in/in%C3%AAs-violante-b457367/" target="_blank" title="LinkedIn"><i class="si si-linkedin" style="font-size:2em;"></i></a>
+      </p>
 
   - align: left
     image: laith_alexander.png
