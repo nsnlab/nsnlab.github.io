@@ -111,3 +111,12 @@ profiles:
   </div>
 
 </div>
+
+## Visiting or Affiliated Researchers
+
+- **Nima Norbu Sherpa**, NIHR Pre Doctoral Clinical Fellow, KCL
+- **Catalina Trujillo Llano**, DAAD Doctoral Fellow, Universitätsmedizin Greifswald
+
+## Project Students
+
+- Name (Year, BEng / MEng / MSc)
