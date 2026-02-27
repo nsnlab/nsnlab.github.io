@@ -50,6 +50,12 @@ profiles:
     more_info:
 
   - align: left
+    image: daniella_jones.png
+    content: about_daniella.md
+    image_circular: false
+    more_info:
+
+  - align: left
     image: gabrielle_allohverdi.png
     content: about_gabrielle.md
     image_circular: false
@@ -70,12 +76,6 @@ profiles:
   - align: left
     image: xiaonan_wan.png
     content: about_xiaonan.md
-    image_circular: false
-    more_info:
-
-  - align: left
-    image: daniella_jones.png
-    content: about_daniella.md
     image_circular: false
     more_info:
 
