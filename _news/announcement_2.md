@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-First simultaneous MRI, TIS, Pupillometry & GSR pilot completed for the TIDAL project.
+First Simultaneous MRI TIS Pupillometry GSR Pilot for TIDAL project.

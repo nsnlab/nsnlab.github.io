@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Abby was awarded the President's PhD Scholarship at Imperial College London, to start in October 2026.
+Abby was awarded the President's PhD Scholarship at Imperial to start in Oct 2026.

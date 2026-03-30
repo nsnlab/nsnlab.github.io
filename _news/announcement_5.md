@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Prince was selected for the Vice Chancellor's Awards 2025 — Postgraduate Researcher of the Year, University of Surrey.
+Prince was selected for the Vice Chancellor's Awards 2025 - Post Graduate Researcher of the Year 2025 - University of Surrey.

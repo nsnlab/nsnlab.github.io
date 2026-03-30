@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Laith was awarded the Academy of Medical Sciences grant.
+Laith awarded the Academy of Medical Sciences grant.

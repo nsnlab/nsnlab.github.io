@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Annie was awarded a travel grant to present at the 2nd Workshop on MRI of Neuromodulation 2026.
+Annie was awarded a travel grant to present at 2nd Workshop on MRI of Neuromodulation 2026.
