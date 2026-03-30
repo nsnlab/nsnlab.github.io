@@ -122,7 +122,16 @@ profiles:
 
 ## Visiting or Affiliated Researchers
 
-- **Nima Norbu Sherpa**, NIHR Pre Doctoral Clinical Fellow, KCL
+<hr>
+<div class="profile float-left">
+  <img src="/assets/img/nima_sherpa.png" class="img-fluid z-depth-1 rounded" alt="Nima Norbu Sherpa">
+  <div class="more-info"><p>BMEIS, KCL</p></div>
+</div>
+<div class="clearfix">
+{% capture nima_content %}{% include_relative about_nima.md %}{% endcapture %}
+{{ nima_content | markdownify }}
+</div>
+
 - **Catalina Trujillo Llano**, DAAD Doctoral Fellow, Universitätsmedizin Greifswald
 
 <div style="margin-top: 3rem;"></div>
