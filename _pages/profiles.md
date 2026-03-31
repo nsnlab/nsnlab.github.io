@@ -23,7 +23,13 @@ profiles:
     image: laith_alexander.png
     content: about_laith.md
     image_circular: false
-    more_info:
+    more_info: >
+      <p>IoPPN, KCL</p>
+      <p style="margin-top:0.5rem;">
+      <a href="https://scholar.google.com/citations?user=wGruzb8AAAAJ&hl=en" target="_blank" title="Google Scholar"><i class="ai ai-google-scholar ai-2x"></i></a>
+      &nbsp;&nbsp;
+      <a href="https://www.linkedin.com/in/laith-alexander/" target="_blank" title="LinkedIn"><i class="si si-linkedin" style="font-size:2em;"></i></a>
+      </p>
 
   - align: left
     image: junheng_li.png
@@ -120,7 +126,16 @@ profiles:
 
 ## Visiting or Affiliated Researchers
 
-- **Nima Norbu Sherpa**, NIHR Pre Doctoral Clinical Fellow, KCL
+<hr>
+<div class="profile float-left">
+  <img src="/assets/img/nima_sherpa.png" class="img-fluid z-depth-1 rounded" alt="Nima Norbu Sherpa">
+  <div class="more-info"><p>BMEIS, KCL</p></div>
+</div>
+<div class="clearfix">
+{% capture nima_content %}{% include_relative about_nima.md %}{% endcapture %}
+{{ nima_content | markdownify }}
+</div>
+
 - **Catalina Trujillo Llano**, DAAD Doctoral Fellow, Universitätsmedizin Greifswald
 
 <div style="margin-top: 3rem;"></div>

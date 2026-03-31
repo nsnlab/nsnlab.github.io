@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2026-03-20 09:00:00
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Annie was awarded a travel grant to present at 2nd Workshop on MRI of Neuromodulation 2026.
