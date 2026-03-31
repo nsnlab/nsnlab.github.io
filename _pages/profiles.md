@@ -80,10 +80,14 @@ profiles:
     more_info:
 
   - align: left
-    image: hope_henderson.png
+    image: hope_henderson.JPEG
     content: about_hope.md
     image_circular: false
-    more_info:
+    more_info: >
+      <p>BMEIS, KCL</p>
+      <p style="margin-top:0.5rem;">
+      <a href="https://www.linkedin.com/in/hopehenderson/" target="_blank" title="LinkedIn"><i class="si si-linkedin" style="font-size:2em;"></i></a>
+      </p>
 ---
 
 ## Alumni
