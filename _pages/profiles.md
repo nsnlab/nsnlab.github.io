@@ -47,7 +47,13 @@ profiles:
     image: tobias_raufeisen.png
     content: about_tobias.md
     image_circular: false
-    more_info:
+    more_info: >
+      <p>BMEIS, KCL</p>
+      <p style="margin-top:0.5rem;">
+      <a href="https://github.com/TobiasRaufeisen" target="_blank" title="GitHub"><i class="si si-github" style="font-size:2em;"></i></a>
+      &nbsp;&nbsp;
+      <a href="https://www.linkedin.com/in/tobias-raufeisen/" target="_blank" title="LinkedIn"><i class="si si-linkedin" style="font-size:2em;"></i></a>
+      </p>
 
   - align: left
     image: valeria_jaramillo.png
