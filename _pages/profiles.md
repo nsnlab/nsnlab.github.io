@@ -68,7 +68,7 @@ profiles:
     more_info:
 
   - align: left
-    image: anna_sadilova.png
+    image: anna_sadilova.jpg
     content: about_anna.md
     image_circular: false
     more_info: >
