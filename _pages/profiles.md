@@ -71,7 +71,11 @@ profiles:
     image: anna_sadilova.png
     content: about_anna.md
     image_circular: false
-    more_info:
+    more_info: >
+      <p>BMEIS, KCL</p> 
+      <p style="margin-top:0.5rem;"> 
+      <a href="https://www.linkedin.com/in/anna-sadilova-6b1482210/" target="_blank" title="LinkedIn"><i class="si si-linkedin" style="font-size:2em;"></i></a> 
+      </p>
 
   - align: left
     image: yishu_chen.png
