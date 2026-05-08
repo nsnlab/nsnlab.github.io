@@ -11,7 +11,7 @@ If you would like to take part in one of our studies and get to know our researc
 
 ## Studies Currently Recruiting
 
-<div class="card mt-3 p-4" style="border: 1px solid #ddd; border-radius: 8px;">
+<div class="card mt-3 p-4" style="border: 1px solid #ddd; border-radius: 8px;" markdown="1">
 
 ### Volunteers Needed for Brain Stimulation and Sleep Study
 
@@ -32,7 +32,7 @@ You will have the opportunity to contribute to research to help understand memor
 
 </div>
 
-<div class="card mt-3 p-4" style="border: 1px solid #ddd; border-radius: 8px;">
+<div class="card mt-3 p-4" style="border: 1px solid #ddd; border-radius: 8px;" markdown="1">
 
 ### The Role of REM Sleep and its Relation to Brain Function in Humans
 
