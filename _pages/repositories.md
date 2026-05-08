@@ -15,10 +15,5 @@ Our code and resources are hosted on GitHub. Visit the **[NSN Lab repositories](
 
 Check out more in lab members' personal repositories:
 
-{% if site.data.repositories.github_repos %}
-<div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
-  {% for repo in site.data.repositories.github_repos %}
-    {% include repository/repo.liquid repository=repo %}
-  {% endfor %}
-</div>
-{% endif %}
+- [Task_MatchToSample_Psychopy-LSL](https://github.com/TobiasRaufeisen/Task_MatchToSample_Psychopy-LSL){:target="_blank"} — Tobias Raufeisen
+- [Task_VisualEvokedPotential_Psychopy-LSL](https://github.com/TobiasRaufeisen/Task_VisualEvokedPotential_Psychopy-LSL){:target="_blank"} — Tobias Raufeisen
