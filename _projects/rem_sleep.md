@@ -3,6 +3,7 @@ layout: page
 title: Multimodal REM sleep study
 description: Investigating the multimodal features of REM sleep and their role in daytime function, brain health, and the potential for neuromodulation to improve REM sleep.
 img: assets/img/rem_sleep.jpg
+img: assets/img/rem_project.png
 importance: 5
 category: research
 ---
