@@ -2,7 +2,7 @@
 layout: page
 title: openings
 permalink: /openings/
-description: Open positions in the lab.
+description:
 nav: true
 nav_order: 9
 ---
