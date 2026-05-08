@@ -152,4 +152,6 @@ profiles:
 
 ## Project Students
 
-- Name (Year, BEng / MEng / MSc)
+- **Amelia D'Aubney** (2025/26, BEng) — Hormone-Dependent Modulation of Brain Networks Supporting Memory After Menopause
+- **Riya Tripathi** (2025/26, MEng) — Optimising an fMRI Pipeline for Detecting Hippocampal Activity in Patients with Alzheimer's Disease
+- **Samia Zaman** (2025/26, MEng) — Decoding Memory-Related Neural Activity During Wakefulness and Sleep: Effects of Non-Invasive Hippocampal Stimulation
