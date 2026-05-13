@@ -1,6 +1,6 @@
 ---
 layout: profiles
-permalink: /people/
+permalink: /team/
 title: team
 description: current and former members of the lab
 nav: true
