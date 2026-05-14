@@ -7,7 +7,7 @@ nav: true
 nav_order: 7
 ---
 
-We are grateful for the support of the following funding bodies:
+We gratefully acknowledge the funding bodies that support the research and training of members of our team:
 
 <div class="row justify-content-center align-items-center mt-4" style="row-gap: 2rem;">
 
