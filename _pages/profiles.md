@@ -32,10 +32,11 @@ profiles:
       </p>
 
   - align: left
-    image: junheng_li.png
+    image: junheng_li.jpg
     content: about_junheng.md
     image_circular: false
-    more_info:
+    more_info: >
+      <p>BMEIS, KCL</p>
 
   - align: left
     image: prince_okyere.png
