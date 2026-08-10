@@ -32,10 +32,14 @@ profiles:
       </p>
 
   - align: left
-    image: junheng_li.png
+    image: junheng_li.jpg
     content: about_junheng.md
     image_circular: false
-    more_info:
+    more_info: >
+      <p>BMEIS, KCL</p>
+      <p style="margin-top:0.5rem;">
+      <a href="https://scholar.google.com/citations?user=POsNFTMAAAAJ" target="_blank" title="Google Scholar"><i class="ai ai-google-scholar ai-2x"></i></a>
+      </p>
 
   - align: left
     image: prince_okyere.png
