@@ -1,1 +1,5 @@
 ## Prince Okyere
+
+Prince Okyere is a Postdoctoral Research Associate in the Neural Systems and Neuromodulation Lab at King's College London. He completed his BSc in Psychology at the University of Cape Coast, Ghana, and an MSc in Cognitive Science (Neuroscience) at the University of Trento, Italy. During his MSc, he conducted research in the TOBergmann Lab (Neurostimulation Group), using real-time EEG-guided transcranial magnetic stimulation (TMS) to investigate phase-dependent changes in cortical excitability during sleep spindles. 
+He completed his PhD at the University of Surrey, where he combined high-density EEG, temporal interference stimulation (TIS) targeting the hippocampus, and targeted memory reactivation (TMR) to investigate hippocampal–cortical interactions underlying sleep-dependent memory consolidation.
+His postdoctoral research extends this work, combining EEG, 7T MRI, and TIS to understand and manipulate brain network dynamics during sleep.
